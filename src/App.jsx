@@ -1,11 +1,9 @@
 import React from 'react';
-import Title from "~ui/title";
+import Title from '~ui/title';
 
 function App() {
   return (
-    <div>
-      <Title />
-    </div>
+    <Title />
   );
 }
 

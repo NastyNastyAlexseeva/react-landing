@@ -5,9 +5,6 @@
 /.pnp
 .pnp.js
 /.vscode
-.eslintrc.js
-.eslintignore
-/src/serviceWorker.js
 
 # testing
 /coverage
