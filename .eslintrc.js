@@ -19,7 +19,6 @@ module.exports = {
     sourceType: 'module',
   },
   plugins: [
-    'babel',
     'import',
     'jsx-a11y',
     'react',
