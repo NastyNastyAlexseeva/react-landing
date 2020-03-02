@@ -4,5 +4,5 @@ export const bem = withNaming({
   n: '',
   e: '__',
   m: '_',
-  v: '_'
+  v: '_',
 });
